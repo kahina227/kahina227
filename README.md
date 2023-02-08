@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there & Welcome to my Github profile 👋
 
 <!--
 **kahina227/kahina227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Multi-skilled and highly enthusiastic Software Engineer with experience in software engineering, full lifecycle software development, networking, and cloud computing. Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. Strengths include object-oriented Programming in C++,Python and modelling using UML, software development and delivery methodologies, including Agile/Scrum/Kanban and Waterfall. Proficient in English and French, with genuine interest and willingness to learn new technologies, tools, and methods.
