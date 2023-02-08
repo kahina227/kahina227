@@ -13,10 +13,12 @@ Some other technologies I enjoy working with include Python, C, CMake, Linux(Ubu
 In June 2021 I was warded Chevening Scholarship, the UK Government's prestigious global awards, to Cranfield University to study MSc. Computational & Software Techniques in Engineering. The program makes awards to outstanding individuals with leadership and influence potential, from around the world to develop professionally and academically and build lifelong positive relationships with the UK.
 Chevening Awards are highly competitive, and to be selected for an award is a mark of potential and of prestige. Only 2% selected for an award among 60K applicants from over 160 countries.
 
-
+<div>
+  <b> Languages and Tools </b>
+</div>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpluplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
