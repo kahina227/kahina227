@@ -15,3 +15,6 @@ Chevening Awards are highly competitive, and to be selected for an award is a ma
 
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
