@@ -1,4 +1,4 @@
-### Hi there & I am Kahina 👋
+### Hi there, I am Kahina 👋
 
 <!--
 **kahina227/kahina227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
