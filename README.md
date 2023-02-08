@@ -16,7 +16,6 @@ Chevening Awards are highly competitive, and to be selected for an award is a ma
 <div>
   <b> Languages and Tools </b>
 </div>
-</br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpluplus" alt="Cplusplus" width="70" height="70"/>&nbsp;
