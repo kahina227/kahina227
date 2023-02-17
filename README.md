@@ -9,9 +9,11 @@ I'm a software engineer who is passionate about modern C++. Well versed in colla
 In June 2021 I was awarded Chevening Scholarship, the UK Government's prestigious global awards, to Cranfield University to study MSc. Computational & Software Techniques in Engineering. The program makes awards to outstanding individuals with leadership and influence potential, from around the world to develop professionally and academically and build lifelong positive relationships with the UK.
 Chevening Awards are highly competitive, and to be selected for an award is a mark of potential and of prestige. Only 2% selected for an award among 60K applicants from over 160 countries.
 </p>
-  
+
+<hr style="height:2px; border-width:1; color:light-blue; background-color:gray">
+
 <div>
-  <b> Languages and Tools </b>
+  <h1 style="font-size:100px; color:white; margin:10px;">Languages and Tools</h1>
 </div>
 
 <div>
@@ -25,9 +27,8 @@ Chevening Awards are highly competitive, and to be selected for an award is a ma
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="70" height="70"/>&nbsp;
   
 <hr style="height:2px; border-width:1; color:light-blue; background-color:gray">
-
+  
 <div>
-  <!--<img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=kahina227&show_icons=true&theme=vue" />-->
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=kahina227&show_icons=true&theme=vue&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahina227&layout=compact&show_icons=true&theme=vue" />
 </div>
