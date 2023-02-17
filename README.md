@@ -10,10 +10,8 @@ In June 2021 I was awarded Chevening Scholarship, the UK Government's prestigiou
 Chevening Awards are highly competitive, and to be selected for an award is a mark of potential and of prestige. Only 2% selected for an award among 60K applicants from over 160 countries.
 </p>
 
-<hr style="height:2px; border-width:1; color:light-blue; background-color:gray">
-
 <div>
-  <h1 style="font-size:100px; color:white; margin:10px;">Languages and Tools</h1>
+  <h1 style="font-size:100px; color:light-blue; margin:10px;">Languages and Tools</h1>
 </div>
 
 <div>
