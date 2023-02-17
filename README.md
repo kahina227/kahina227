@@ -24,3 +24,10 @@ Chevening Awards are highly competitive, and to be selected for an award is a ma
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="70" height="70"/>&nbsp;
   
+</br>
+
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=kahina227&show_icons=true&theme=vue" />
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=kahina227&show_icons=true&theme=vue&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahina227&layout=compact&show_icons=true&theme=vue" />
+</div>
