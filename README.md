@@ -27,10 +27,6 @@ Chevening Awards are highly competitive, and to be selected for an award is a ma
 <hr style="height:2px; border-width:1; color:light-blue; background-color:gray">
   
 <div>
-                                              
-  
-  <img height="165" align="left" src="https://github-readme-stats#gh-light-mode-only/api?username=kahina227&show_icons=true&theme=vue&count_private=true" />
-  
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=kahina227&show_icons=true&theme=vue&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahina227&layout=compact&show_icons=true&theme=vue" />
 </div>
