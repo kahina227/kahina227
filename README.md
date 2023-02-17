@@ -11,7 +11,7 @@ Chevening Awards are highly competitive, and to be selected for an award is a ma
 </p>
 
 <div>
-  <p style="color: rgb(52, 86, 139); font-size:100px; margin:10px;">Languages and Tools</p>
+  <h3 style="color: rgb(52, 86, 139); font-size:25px;">Languages and Tools</h3>
 </div>
 
 <div>
