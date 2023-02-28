@@ -4,7 +4,7 @@
 **kahina227/kahina227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" alt="img" src="https://github.com/kahina227/kahina227/blob/main/programmer.gif?raw=true" width="700" height="500" />
+<img align="right" alt="img" src="https://github.com/kahina227/kahina227/blob/main/programmer.gif?raw=true" width="470" height="360" />
  
 <p align="justify">
 <p> I'm a software engineer who is passionate about modern C++. </p>
