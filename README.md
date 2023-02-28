@@ -4,7 +4,7 @@
 **kahina227/kahina227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" alt="img" src="https://github.com/kahina227/kahina227/blob/main/dev.png?raw=true" width="700" height="460" />
+<img alt="img" src="https://github.com/kahina227/kahina227/blob/main/dev.png?raw=true">
 
 <br> 
 <br>
