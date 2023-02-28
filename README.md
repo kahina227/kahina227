@@ -3,6 +3,9 @@
 <!--
 **kahina227/kahina227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<img align="right" alt="img" src="https://github.com/kahina227/kahina227/blob/main/code_img.png?raw=true" width="500" height="320" />
+ 
 <p align="justify">
 I'm a software engineer who is passionate about modern C++. Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. I loves to works on things that are exciting & Challenging.</br> 
 
@@ -22,16 +25,7 @@ Chevening Awards are highly competitive, and to be selected for an award is a ma
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="70" height="70"/>&nbsp;
-  
-  
-  
-
- <img align="right" alt="img" src="https://github.com/kahina227/kahina227/blob/main/SE.jpg?raw=true" width="500" height="320" />
-
-  
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="70" height="70"/>&nbsp;  
 
 <hr style="height:2px; border-width:1; color:light-blue; background-color:gray">
   
