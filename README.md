@@ -24,6 +24,15 @@ Chevening Awards are highly competitive, and to be selected for an award is a ma
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="70" height="70"/>&nbsp;
   
+  
+  
+
+ <img align="right" alt="img" src="https://github.com/kahina227/kahina227/blob/main/SE.jpg?raw=true" width="500" height="320" />
+
+  
+  
+  
+
 <hr style="height:2px; border-width:1; color:light-blue; background-color:gray">
   
 <div>
