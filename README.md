@@ -4,7 +4,7 @@
 **kahina227/kahina227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" alt="img" src="https://github.com/kahina227/kahina227/blob/main/programmer.gif?raw=true" width="300" height="150" />
+<img align="right" alt="img" src="https://github.com/kahina227/kahina227/blob/main/programmer.gif?raw=true" width="450" height="320" />
  
 <p align="justify">
 I'm a software engineer who is passionate about modern C++. Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. I loves to works on things that are exciting & Challenging.</br> 
