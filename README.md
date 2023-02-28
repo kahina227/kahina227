@@ -1,5 +1,5 @@
 ### Hi, I am Kahina 👋
-<hr style="height:0.7px; border-width:1; color:light-blue;">
+<hr style="border-width:0.1em; color:light-blue;">
 <!--
 **kahina227/kahina227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
