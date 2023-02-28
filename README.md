@@ -6,9 +6,6 @@
 
 <img alt="img" src="https://github.com/kahina227/kahina227/blob/main/dev.png?raw=true">
 
-<p align="justify">
-<p> I'm a software engineer who is passionate about modern C++. </p>
- 
 <br> 
  
 <p align="justify"> I am Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. I loves to works on things that are exciting & Challenging.</p> 
