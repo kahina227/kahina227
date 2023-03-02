@@ -3,12 +3,12 @@
 <!--
 **kahina227/kahina227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="360" />
 <!--<img alt="img" src="https://github.com/kahina227/kahina227/blob/main/dev.png?raw=true">-->
 
 <br> 
  
-<p align="justify"> I am Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. I loves to works on things that are exciting & Challenging.</p> 
+<p align="left"> I am Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. I loves to works on things that are exciting & Challenging.</p> 
 
 <br> 
 
@@ -30,9 +30,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="70" height="70"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="70" height="70"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="70" height="70"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="70" height="70"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="70" height="70"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="70" height="70"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="90" height="90"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="90" height="90"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="90" height="90"/>
  
 
 <hr style="height:2px; border-width:1; color:light-blue; background-color:gray">
