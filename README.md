@@ -11,7 +11,7 @@
 <p align="left"> I am Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. I loves to works on things that are exciting & Challenging.</p> 
 
 
-<div style="margin-top: 100px;">
+<div style="margin-top: 300px;">
   <h3 style="color: rgb(52, 86, 139); font-size:25px;">Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3> 
 </div>
 
