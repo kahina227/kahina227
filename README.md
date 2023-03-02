@@ -7,12 +7,19 @@
 <!--<img alt="img" src="https://github.com/kahina227/kahina227/blob/main/dev.png?raw=true">-->
 
 <div style="padding: 70px; align: right;">
-  <h3>I am a Software Engineer, who is passionate about C++</h3> 
+  <h3>Software Engineer, who is passionate about C++</h3> 
 </div>
  
 <p align="left"> I am Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. I loves to works on things that are exciting & Challenging.</p> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<hr style="border-top: 0.1px; color:light-blue;">
+<hr style="border-top: 0.1px; color:white;">
 
 <div style="padding: 70px;">
   <h3 style="color: rgb(52, 86, 139); font-size:25px;">Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3> 
