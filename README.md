@@ -18,7 +18,7 @@
 <div>
  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" title="Cpluplus" alt="Cplusplus" width="70">
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" alt="CMake" width="120" height="150"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" alt="CMake" width="95" height="95"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="70">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="sql" alt="SQL" width="70"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="70"/>
@@ -30,7 +30,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="70" height="70"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="70" height="70"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="100" height="100"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="120" height="120"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="100" height="100"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="90" height="90"/>
  
 
