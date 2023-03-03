@@ -7,7 +7,7 @@
 <!--<img alt="img" src="https://github.com/kahina227/kahina227/blob/main/dev.png?raw=true">-->
 
 <div style="padding: 70px; align: right;">
-  <h3>Software Engineer, who is passionate about C++</h3> 
+  <h3>Software Engineer passionate about C++</h3> 
 </div>
  
 <p align="left"> I am Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. I loves to works on things that are exciting & Challenging.</p> 
@@ -33,13 +33,13 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="46"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="46"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="46"/>
- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="46">
+ <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="67">
  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="46"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="46"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="46"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="84"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="86"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="86"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="67"/>
  
 
 <hr style="height:2px; border-width:1; color:light-blue; background-color:gray">
