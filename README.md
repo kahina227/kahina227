@@ -48,3 +48,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahina227&layout=compact&show_icons=true&theme=vue" />
   <img height="165" align="right" src="https://github-readme-stats.vercel.app/api?username=kahina227&show_icons=true&theme=vue&count_private=true" />
 </div>
+
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
